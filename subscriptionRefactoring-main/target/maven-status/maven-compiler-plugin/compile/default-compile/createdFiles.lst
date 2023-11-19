@@ -1,0 +1,10 @@
+refactor\service\impl\PodcastSubscription.class
+refactor\service\Subscription.class
+refactor\service\MonthlyStrategy.class
+refactor\service\QuarterlyStrategy.class
+refactor\SubscriptionProcessor.class
+refactor\service\impl\VideoSubscription.class
+refactor\service\impl\MusicSubscription.class
+refactor\service\AnnualStrategy.class
+refactor\service\BillingCycle.class
+refactor\factory\SubscriptionFactory.class
